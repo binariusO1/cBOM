@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=UoJveoAHZVI
 
 
 <p align="center">
-  <img src="https://github.com/binariusO1/cBOM/blob/master/cBOM.png?raw=true " width="400" title="hover text">
+  <img src="https://github.com/binariusO1/cBOM/blob/master/cBOM.png?raw=true " width="640" title="hover text">
 </p>
 
 <p align="left">
