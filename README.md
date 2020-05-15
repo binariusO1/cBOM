@@ -1,5 +1,6 @@
 # cBOM
-C++ ; 
+<p></p>
+<img src="https://img.shields.io/badge/C++-11-blue" title="hover text">
 WinApi to work with TopSolid Wood BOM files (.txt files)
 
 
